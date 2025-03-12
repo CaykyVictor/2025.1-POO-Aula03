@@ -30,7 +30,7 @@ public class Televisao
 
 
 
-    //Get: permite que seja executada a 
+    //Get: permite que seja executada 
     //leitura do valor atual da propriedade
     //Set: permite que seja atibuído um 
     //valor para a propriedade
